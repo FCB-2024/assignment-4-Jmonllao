@@ -23,7 +23,7 @@ def main():
 			is_anti_prime = False
 			break
 	if is_anti_prime:
-		return"antiprime"
+		return"anti-prime"
 	else:
 		return"not anti-prime"
 
